@@ -6,8 +6,9 @@ var submissionResponseEl = document.querySelector("#response");
 function showPassword(event) {
     //prevent default action
     event.preventDefault();
-    
+    console.log(event)
     var password = "Your password is " + userInput.value
+    console.log(password)
     submissionResponseEl.textContent = password;
 
 }
