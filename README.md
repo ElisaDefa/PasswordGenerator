@@ -31,4 +31,4 @@ THEN the password is either displayed in an alert or written to the page
 <img width="518" alt="READMESS3.png" src="READMESS3.png">
 
 ### Here's the link to the deployed Webpage:
-https://elisadefa.github.io/FullStack_EliDefa_ProfessionalPortfolio/
+https://elisadefa.github.io/PasswordGenerator/
